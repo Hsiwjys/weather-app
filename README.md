@@ -40,7 +40,7 @@ A fully responsive and lightweight weather web app built using **HTML, CSS, and 
 
 ### 🌐 **Live Demo** *(if available)*:
 
-> [https://your-username.github.io/weather-app](https://your-username.github.io/weather-app)
+> [https://your-username.github.io/weather-app](https://hsiwjys.github.io/weather-app/)
 
 ---
 
