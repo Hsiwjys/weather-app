@@ -43,5 +43,3 @@ A fully responsive and lightweight weather web app built using **HTML, CSS, and 
 > [https://your-username.github.io/weather-app](https://hsiwjys.github.io/weather-app/)
 
 ---
-
-Would you like this wrapped into a downloadable `README.md` file now?
